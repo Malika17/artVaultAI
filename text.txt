@@ -1,0 +1,14 @@
+Use solidity for building smart contract
+Ethereum blockchain
+Stable Diffusion for AI image generation
+nft storage to upload images to IPFS
+
+dependencies - 
+npm 
+node js
+metamask
+hardhat for testing and deployment 
+react js for frontend
+solidity
+ethers.js for connection
+api for hugging face - ai image
